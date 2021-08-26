@@ -1,0 +1,4 @@
+Must install via pip
+
+pyinstaller
+PySimpleGUI
