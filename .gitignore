@@ -4,6 +4,7 @@ __pycache__/SyrinCSV2FG.cpython-39.pyc
 *.pkg
 *.pyz
 *.manifest
+*.exe
 build/SyrinCSV2FG/warn-SyrinCSV2FG.txt
 SyrinCSV2FG.spec
 build/SyrinCSV2FG/xref-SyrinCSV2FG.html
