@@ -2,3 +2,5 @@ Must install via pip
 
 pyinstaller
 PySimpleGUI
+
+https://www.virustotal.com/gui/file/5f6ed2cb2645bc63ffba581b7865524c979fd7813c5f7b98b8b06a4f04738678
